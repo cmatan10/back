@@ -6,3 +6,8 @@ export * from './cart-item.controller';
 export * from './order.controller';
 export * from './user.controller';
 export * from './user-order.controller';
+export * from './user-cart.controller';
+export * from './category-product.controller';
+export * from './product-cart-item.controller';
+export * from './cart-cart-item.controller';
+export * from './cart-order.controller';
