@@ -19,7 +19,7 @@ export class Order extends Entity {
     type: 'string',
     required: true,
   })
-  _catId: string;
+  _cartId: string;
 
   @property({
     type: 'number',
